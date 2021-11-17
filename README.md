@@ -1,2 +1,19 @@
-# tech-blogs
-Tech blogs of major global companies for education.
+## Tech Blogs of famous companies for education
+
+ 1. [Disney + Hotstar](https://blog.hotstar.com/archive)
+ 2. [Netflix](https://netflixtechblog.com/)
+ 3. [Uber](https://eng.uber.com/)
+ 4. [Discord](https://blog.discord.com/tagged/engineering)
+ 5. [Twitch](https://blog.twitch.tv/en/tags/engineering)
+ 6. [Twitter](https://blog.twitter.com/engineering/en_us)
+ 7. [Instagram](https://instagram-engineering.com/)
+ 8. [Reddit](https://www.redditinc.com/blog/topic/technology)
+ 9. [LinkedIn](https://engineering.linkedin.com/blog?)
+ 10. [Trello](https://tech.trello.com/)
+ 11. [PayPal](https://medium.com/paypal-tech)
+ 12. [eBay](https://tech.ebayinc.com/)
+ 13. [Groupon](https://medium.com/groupon-eng)
+ 14. [Walmart](https://medium.com/walmartglobaltech)
+ 15. [Mozilla](https://hacks.mozilla.org/)
+ 16. [GoDaddy](https://www.godaddy.com/engineering/blog-posts/)
+ 17. [Slack](https://slack.engineering)
